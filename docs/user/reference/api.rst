@@ -1,14 +1,14 @@
 API
 ===
 
-.. automodule:: python3_pip_skeleton
+.. automodule:: fast_cs
 
-    ``python3_pip_skeleton``
+    ``fast_cs``
     -----------------------------------
 
-This is the internal API reference for python3_pip_skeleton
+This is the internal API reference for fast_cs
 
-.. data:: python3_pip_skeleton.__version__
+.. data:: fast_cs.__version__
     :type: str
 
     Version number as calculated by https://github.com/pypa/setuptools_scm
